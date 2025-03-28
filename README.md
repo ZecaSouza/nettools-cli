@@ -8,6 +8,8 @@
 
 **NetTools CLI** é um utilitário de linha de comando construído em Go, que oferece uma série de comandos úteis para diagnosticar e investigar informações de rede, como IPs, servidores DNS, registros MX, consultas WHOIS, varredura de portas TCP e mais.
 
+Este projeto também faz parte de um estudo prático sobre a biblioteca `net` da linguagem Go, com foco no aprofundamento dos recursos de rede e no treinamento dos fundamentos de testes automatizados, incluindo uso de mocks e injeção de dependência.
+
 O projeto é modular, testável, desacoplado por meio de injeção de dependência, com suporte a testes automatizados e pronto para produção.
 
 ---
